@@ -1,0 +1,7 @@
+For each of the five runs learning rate and number of iterations are updated:
+(alpha, iteration)
+1. 0.0001,1000
+2. .0001, 100
+3. .005, 1000
+4. .0001, 500
+5. .001, 10000
